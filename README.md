@@ -26,5 +26,5 @@ The firm operates with **30 workstations and 3 servers**, handling large volumes
 - Strengthened **security posture** by introducing segmentation at the switching level and a firewall.  
 - Provided a more **scalable foundation** to support the firm’s future growth and compliance requirements.  
 
-## 📊 Diagram (Optional)  
-*(Insert your network topology diagram here if available)*  
+## 📊 Network Diagram
+![Network Diagram](diagram/Techstart.png)
